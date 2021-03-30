@@ -1,0 +1,28 @@
+form label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 5px;
+  font-family: Helvetica, Arial;
+}
+
+form input {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+form textarea {
+  display: block;
+  font-size: 16px;
+  margin-bottom: 20px;
+  width: 25%;
+  height: 6.75rem;
+}
+
+form button {
+  padding: 10px 16px;
+  margin: 10px;
+  background-color: blue;
+  color: white;
+  border: 10px;
+  border-radius: 10px;
+}
